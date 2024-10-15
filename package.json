@@ -1,0 +1,23 @@
+{
+  "name": "clickhouse_tags",
+  "version": "0.0.1",
+  "description": "Learn how to use ClickHouse ReplacingMergeTree table engine to manage tags",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanoker/clickhouse_tags.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanoker/clickhouse_tags/issues"
+  },
+  "homepage": "https://github.com/stanoker/clickhouse_tags#readme",
+  "dependencies": {
+    "@clickhouse/client": "^1.6.0"
+  }
+}
